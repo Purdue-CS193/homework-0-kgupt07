@@ -4,16 +4,9 @@
 - The instructors! They are so enthusiastic, sweet and helpful, creating a really conducive learning environment.
 - The actual content: it is all very helpful, and will definitely help me in my CS classes, wehre I a already expected to know this stuff.
 - The lecture hall is very cool!
-- this assignment makes me feel like a cool hacker. I like it.
+- this assignment makes me feel like a cool hacker. I like it😎
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Markdown conventions(for future reference):
 ```markdown
 Syntax highlighted code block
 
@@ -32,9 +25,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
