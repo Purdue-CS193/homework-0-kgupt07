@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Khushi Gupta's First CS 193 Homework!! ✊
+
+### My favourite aspects about the CS193 class so far:
+- The instructors! They are so enthusiastic, sweet and helpful, creating a really conducive learning environment.
+- The actual content: it is all very helpful, and will definitely help me in my CS classes, wehre I a already expected to know this stuff.
+- The lecture hall is very cool!
+- this assignment makes me feel like a cool hacker. I like it.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
